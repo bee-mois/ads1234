@@ -1,3 +1,13 @@
+/*
+  ads1234_jeff.ino - sketch for reading from a ADS1234 24-bit ADC.
+  Based on Jeffrey M. Kubascik's ADS1232.h,
+    https://github.com/jeffkub/beer-gauge/edit/master/firmware/beer-gauge/ADS1232.ino
+  Released into the public domain.
+  
+  Changelog:
+  2018-02-20 Created this file from ADS1232.ino, changed entry commentary
+*/
+
 #include <limits.h>
 #include <SPI.h>
 
