@@ -3,6 +3,9 @@
   Based on Jeffrey M. Kubascik's ADS1232.cpp,
     https://github.com/jeffkub/beer-gauge/edit/master/firmware/beer-gauge/ADS1232.cpp
   Released into the public domain.
+  
+  Changelog:
+  2018-02-20 Created this file from ADS1232.cpp, changed entry commentary
 */
 
 #include "ADS1232.h"
